@@ -59,7 +59,7 @@ To run this project, install it locally using npm:
 
  # Introduction
 
-Este proyecto fue creado usando también las siguientes herramientas:
+This project was created using also the following tools:
 
 
 * Design Thinking
