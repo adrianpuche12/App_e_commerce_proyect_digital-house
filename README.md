@@ -2,7 +2,7 @@
 
  <h1 align="center">e-commerce MERCADOLIBRE</h1>
 
-  ![Algorithm schema](./imgesReadme/logo.png)
+ <center> ![Algorithm schema](./imgesReadme/logo.png)</center>
 
 
 ## table of Contents
