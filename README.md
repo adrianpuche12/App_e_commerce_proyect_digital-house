@@ -1,10 +1,10 @@
  
- <p align="center">
+
  # e-commerce MERCADOLIBRE
 
   ![Algorithm schema](./imgesReadme/logo.png)
- </p>
- 
+
+
 ## Tabla de contenido
 * [Información general](#información-general)
 * [Tecnologías](#tecnologías)
@@ -38,13 +38,13 @@ $ npm init
 
  # Introduction
  
-### Imagen to Home Page
+##### Imagen to Home Page
  ![Algorithm schema](/imgesReadme/003815.png)
 
-### Imagen to PAGE LINDING PRODUCT
+##### Imagen to PAGE LINDING PRODUCT
  ![Algorithm schema](/imgesReadme/003843.png)
 
-### image product edit
+##### image product edit
 ![Algorithm schema](./imgesReadme/003914.png)
  
  
