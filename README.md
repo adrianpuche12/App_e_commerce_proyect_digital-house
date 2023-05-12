@@ -5,16 +5,20 @@
   ![Algorithm schema](./imgesReadme/logo.png)
 
 
-## Tabla de contenido
+## table of Contents
+
 * [Información general](#información-general)
 * [Tecnologías](#tecnologías)
 * [Configuración](#configuración)
+* [Introduction](#Introduction)
 
-## Información general
-este proyecto fue creado con el objetivo de utilizar los conocimientos aprendidos en equipo y desarrollar las tegnologias aqui descriptas
+## General information
+
+This project was created with the aim of using the knowledge learned as a team and developing the technologies described here.
 	
-## Tecnologías
-El proyecto se crea con:
+## Technologies
+
+The project is created with:
 
    * Nodejs:  16.20.0
    * ejs: 2.6.1
@@ -25,7 +29,7 @@ El proyecto se crea con:
    * multer: 1.4.2
    * nodemon: 2.0.1
 	
-## Configuración
+## Settings
 To run this project, install it locally using npm:
 
 ```
