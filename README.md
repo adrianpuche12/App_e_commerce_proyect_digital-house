@@ -1,6 +1,6 @@
  
 
- # e-commerce MERCADOLIBRE
+ <h1 align="center">e-commerce MERCADOLIBRE</h1>
 
   ![Algorithm schema](./imgesReadme/logo.png)
 
@@ -21,6 +21,7 @@ This project was created with the aim of using the knowledge learned as a team a
 The project is created with:
 
    * Nodejs:  16.20.0
+   * Express Generator 4.16.0
    * ejs: 2.6.1
    * express: 4.16.1
    * http-errors: 1.6.3
