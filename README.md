@@ -7,9 +7,9 @@
 
 ## table of Contents
 
-* [Información general](#información-general)
-* [Tecnologías](#tecnologías)
-* [Configuración](#configuración)
+* [General information](#General-information)
+* [Technologies](#Technologies)
+* [Setting](#Settings)
 * [Introduction](#Introduction)
 
 ## General information
