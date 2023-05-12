@@ -43,16 +43,15 @@ The project is created with:
 To run this project, install it locally using npm:
 
 
-
-1- Install nodejs   ![Install nodejs](https://nodejs.org/en/download)
-2- Isntall npm 
+1- [Install nodejs](https://nodejs.org/en/download)
+2- [Isntall npm](https://www.npmjs.com/)
 
 ```
-git clone: https://github.com/adrianpuche12/App_e_commerce_proyect_digital-house.git
-$ cd App_e_commerce_proyect_digital-house
-instalación de $ npm
-$ npm init
-$npm start
+3- git clone: https://github.com/adrianpuche12/App_e_commerce_proyect_digital-house.git
+4- $ cd App_e_commerce_proyect_digital-house
+5- $ npm init
+6- $npm start
+
 ```
 
 
