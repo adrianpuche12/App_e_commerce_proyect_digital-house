@@ -1,4 +1,6 @@
- #e-commerce MERCADOLIBRE
+ # e-commerce MERCADOLIBRE
+
+  ![Algorithm schema](./imgesReadme/logo.png)
  
 ## Tabla de contenido
 * [Información general](#información-general)
@@ -6,7 +8,7 @@
 * [Configuración](#configuración)
 
 ## Información general
-Este proyecto es un generador de dolor simple de Lorem ipsum.
+This proyect 
 	
 ## Tecnologías
 El proyecto se crea con:
