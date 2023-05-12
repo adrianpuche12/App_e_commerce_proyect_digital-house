@@ -27,15 +27,15 @@ This project was created with the aim of using the knowledge learned as a team a
 
 The project is created with:
 
-   * Nodejs:  16.20.0
-   * Express Generator 4.16.0
-   * ejs: 2.6.1
-   * express: 4.16.1
-   * http-errors: 1.6.3
-   * method-override: 3.0.0
-   * morgan: 1.9.1
-   * multer: 1.4.2
-   * nodemon: 2.0.1
+   * Nodejs:  16.20.0 [Nodejs](https://nodejs.org/en/download)
+   * Express Generator 4.16.0 [Express Generator](https://www.npmjs.com/package/express-generator)
+   * ejs: 2.6.1 [ejs](https://ejs.co/)
+   * express: 4.16.1 [express](https://expressjs.com/es/)
+   * http-errors: 1.6.3 [http-errors](https://www.npmjs.com/package/http-errors)
+   * method-override: 3.0.0 [method-override](https://www.npmjs.com/package/method-override)
+   * morgan: 1.9.1 [morgan](https://www.npmjs.com/package/morgan)
+   * multer: 1.4.2 [multer](https://www.npmjs.com/package/multer)
+   * nodemon: 2.0.1 [nodemon](https://www.npmjs.com/package/nodemon)
 	
 
 
