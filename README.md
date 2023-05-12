@@ -43,14 +43,17 @@ The project is created with:
 To run this project, install it locally using npm:
 
 
+
+1- Install nodejs   ![Install nodejs](https://nodejs.org/en/download)
+2- Isntall npm 
+
 ```
 git clone: https://github.com/adrianpuche12/App_e_commerce_proyect_digital-house.git
 $ cd App_e_commerce_proyect_digital-house
 instalación de $ npm
 $ npm init
+$npm start
 ```
-
-
 
 
 
@@ -63,7 +66,6 @@ Este proyecto fue creado usando también las siguientes herramientas:
 * scrum methodologies
 * Springs
 * Canvas model
-
 
 
 
@@ -89,7 +91,10 @@ Este proyecto fue creado usando también las siguientes herramientas:
  # Next challenges
 
 
- * help page
- * shopping cart development
- * development
- * mobile menu development
+My next challenge are:
+
+ * help page (The client can get all the help they need by interacting with pre-established responses)
+
+ * shopping cart development (The client has the possibility of saving their products.)
+
+ * mobile menu development (hamburger menu development in mobile mode)
