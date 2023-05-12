@@ -1,6 +1,9 @@
+ 
+ <p align="center">
  # e-commerce MERCADOLIBRE
 
   ![Algorithm schema](./imgesReadme/logo.png)
+ </p>
  
 ## Tabla de contenido
 * [Información general](#información-general)
@@ -8,29 +11,41 @@
 * [Configuración](#configuración)
 
 ## Información general
-This proyect 
+este proyecto fue creado con el objetivo de utilizar los conocimientos aprendidos en equipo y desarrollar las tegnologias aqui descriptas
 	
 ## Tecnologías
 El proyecto se crea con:
-* Versión de Lorem: 12.3
-* Versión de Ipsum: 2.33
-* Versión de la biblioteca Ament: 999
+
+   * Nodejs:  16.20.0
+   * ejs: 2.6.1
+   * express: 4.16.1
+   * http-errors: 1.6.3
+   * method-override: 3.0.0
+   * morgan: 1.9.1
+   * multer: 1.4.2
+   * nodemon: 2.0.1
 	
 ## Configuración
-Para ejecutar este proyecto, instálelo localmente usando npm:
+To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
+git clone: https://github.com/adrianpuche12/App_e_commerce_proyect_digital-house.git
+$ cd App_e_commerce_proyect_digital-house
 instalación de $ npm
-$ npm inicio
+$ npm init
 ```
 
 
- #Introduction
+ # Introduction
  
+### Imagen to Home Page
  ![Algorithm schema](/imgesReadme/003815.png)
+
+### Imagen to PAGE LINDING PRODUCT
  ![Algorithm schema](/imgesReadme/003843.png)
-  ![Algorithm schema](./imgesReadme/003914.png)
+
+### image product edit
+![Algorithm schema](./imgesReadme/003914.png)
  
  
  
